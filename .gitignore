@@ -1,0 +1,6 @@
+config.py
+comments_replied_to.txt
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
